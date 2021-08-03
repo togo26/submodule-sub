@@ -5,3 +5,5 @@ exports.addNumber = (a, b) => {
   return a + b;
 };
 exports.multiplyNumber = multiplyNumber;
+
+console.log('new commit 1');
