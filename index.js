@@ -7,3 +7,4 @@ exports.addNumber = (a, b) => {
 exports.multiplyNumber = multiplyNumber;
 
 console.log('new commit 1');
+console.log('new commit 2');
